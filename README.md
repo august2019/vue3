@@ -1,3 +1,8 @@
+# vue3+vite+bootstrap5
+1. vue3 컴포넌트 분리
+2. bootstrap에서 게시판타입 적용 (목록, 상세, 편집, 등록 => 라우터 적용)
+
+
 # learn-vue3
 
 This template should help get you started developing with Vue 3 in Vite.
