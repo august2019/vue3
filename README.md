@@ -2,6 +2,8 @@
 1. vue3 컴포넌트 분리
 2. bootstrap에서 게시판타입 적용 (목록, 상세, 편집, 등록 => 라우터 적용)
 
+![image](https://github.com/august2019/vue3/assets/51160844/783cdcb5-bbe5-4d1a-8b0b-4372927a6a18)
+
 
 # learn-vue3
 
